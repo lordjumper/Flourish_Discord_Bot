@@ -1,0 +1,35 @@
+{
+  "common": [
+    { "name": "Anchovy", "emoji": "🐟", "value": 50, "weight": "0.1-0.3", "id": "fish_common_anchovy", "description": "A small, common saltwater fish." },
+    { "name": "Perch", "emoji": "🐟", "value": 75, "weight": "0.2-0.5", "id": "fish_common_perch", "description": "A freshwater fish found in many lakes and rivers." },
+    { "name": "Herring", "emoji": "🐟", "value": 100, "weight": "0.3-0.7", "id": "fish_common_herring", "description": "A common oily fish that travels in large schools." },
+    { "name": "Mackerel", "emoji": "🐟", "value": 125, "weight": "0.4-0.9", "id": "fish_common_mackerel", "description": "A fast-swimming predatory fish with distinctive markings." },
+    { "name": "Carp", "emoji": "🐟", "value": 150, "weight": "0.8-2.5", "id": "fish_common_carp", "description": "A large freshwater fish known for being hardy." }
+  ],
+  "uncommon": [
+    { "name": "Bass", "emoji": "🐡", "value": 225, "weight": "1.5-4.0", "id": "fish_uncommon_bass", "description": "A popular game fish known for its fighting spirit." },
+    { "name": "Catfish", "emoji": "🐡", "value": 275, "weight": "2.0-5.0", "id": "fish_uncommon_catfish", "description": "A distinctive fish with whisker-like barbels around its mouth." },
+    { "name": "Trout", "emoji": "🐡", "value": 300, "weight": "1.0-3.0", "id": "fish_uncommon_trout", "description": "A freshwater fish prized by anglers for its flavor." },
+    { "name": "Cod", "emoji": "🐡", "value": 350, "weight": "5.0-10.0", "id": "fish_uncommon_cod", "description": "A deep-sea fish that's been a staple food for centuries." },
+    { "name": "Salmon", "emoji": "🐡", "value": 400, "weight": "3.0-8.0", "id": "fish_uncommon_salmon", "description": "A fish known for swimming upstream to spawn." }
+  ],
+  "rare": [
+    { "name": "Tuna", "emoji": "🐠", "value": 600, "weight": "30-50", "id": "fish_rare_tuna", "description": "A large, powerful fish that can swim incredibly fast." },
+    { "name": "Swordfish", "emoji": "🐠", "value": 800, "weight": "40-70", "id": "fish_rare_swordfish", "description": "A predatory fish with a distinctive sword-like bill." },
+    { "name": "Pufferfish", "emoji": "🐡", "value": 1000, "weight": "2.0-5.0", "id": "fish_rare_pufferfish", "description": "A fish that can inflate itself when threatened." },
+    { "name": "Tropical Fish", "emoji": "🐠", "value": 1200, "weight": "0.5-2.0", "id": "fish_rare_tropical_fish", "description": "A brightly colored fish from warm waters." }
+  ],
+  "legendary": [
+    { "name": "Shark", "emoji": "🦈", "value": 2000, "weight": "100-300", "id": "fish_legendary_shark", "description": "A fearsome predator of the deep with razor-sharp teeth." },
+    { "name": "Whale", "emoji": "🐋", "value": 3000, "weight": "1000-2000", "id": "fish_legendary_whale", "description": "The gentle giant of the ocean. How did you catch this?!" },
+    { "name": "Giant Squid", "emoji": "🦑", "value": 4000, "weight": "200-500", "id": "fish_legendary_giant_squid", "description": "A mysterious deep-sea creature rarely seen by humans." },
+    { "name": "Golden Fish", "emoji": "🐠", "value": 5000, "weight": "5.0-10.0", "id": "fish_legendary_golden_fish", "description": "A mythical fish that glimmers like pure gold." }
+  ],
+  "junk": [
+    { "name": "Seaweed", "emoji": "🌿", "value": 10, "weight": "0.2-0.5", "id": "fish_junk_seaweed", "description": "Just some wet plants from the ocean." },
+    { "name": "Old Boot", "emoji": "👢", "value": 15, "weight": "0.5-1.0", "id": "fish_junk_old_boot", "description": "Someone's lost footwear. Not very valuable." },
+    { "name": "Tin Can", "emoji": "🥫", "value": 5, "weight": "0.1-0.3", "id": "fish_junk_tin_can", "description": "A rusty old can. Worth almost nothing." },
+    { "name": "Plastic Bag", "emoji": "🛍️", "value": 5, "weight": "0.1-0.2", "id": "fish_junk_plastic_bag", "description": "Pollution that you've removed from the water. Good job!" },
+    { "name": "Driftwood", "emoji": "🪵", "value": 20, "weight": "1.0-2.0", "id": "fish_junk_driftwood", "description": "A piece of wood that's been floating in the water for a while." }
+  ]
+}

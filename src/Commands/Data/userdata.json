@@ -1,0 +1,51 @@
+{
+  "342061165049806859": {
+    "balance": 70100,
+    "inventory": [
+      {
+        "id": "common_egg",
+        "quantity": 1,
+        "acquired": 1746139514120
+      }
+    ],
+    "fishing": {
+      "totalCaught": 0,
+      "commonCaught": 0,
+      "uncommonCaught": 0,
+      "rareCaught": 0,
+      "legendaryCaught": 0,
+      "junkCaught": 0,
+      "totalValue": 0,
+      "equippedRod": null,
+      "rods": {}
+    },
+    "blackjack": {
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "totalWinnings": 0
+    },
+    "cards": [],
+    "lastCardDrop": 1746150129846
+  },
+  "201059942701072384": {
+    "balance": 124900,
+    "inventory": [],
+    "fishing": {
+      "totalCaught": 0,
+      "commonCaught": 0,
+      "uncommonCaught": 0,
+      "rareCaught": 0,
+      "legendaryCaught": 0,
+      "junkCaught": 0,
+      "totalValue": 0,
+      "equippedRod": null,
+      "rods": {}
+    },
+    "blackjack": {
+      "gamesPlayed": 1,
+      "gamesWon": 0,
+      "totalWinnings": 0,
+      "gamesLost": 1
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "config": {
+    "drop_cooldown_minutes": 0,
+    "card_width": 400,
+    "card_height": 600,
+    "use_jikan_api": true,
+    "preferred_series": ["One Piece", "Naruto", "Attack on Titan", "High School DxD", "Sword Art Online", "Death Note", "My Hero Academia", "Demon Slayer", "Dragon Ball Z", "Fullmetal Alchemist", "Tokyo Ghoul", "Bleach", "Fairy Tail", "Hunter x Hunter", "One Punch", "JoJo's Bizarre Adventure", "Your Name", "Spirited Away", "Cowboy Bebop", "Neon Genesis Evangelion", "Re:Zero - Starting Life in Another World", "Mob Psycho 100", "The Promised Neverland", "Attack on Titan: The Final Season", "Jujutsu Kaisen", "Chainsaw Man"]
+  },
+  "print_counts": {}
+}
